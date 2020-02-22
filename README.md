@@ -1,2 +1,2 @@
-# Curso-B-sico-Git
+# Curso-Basico-Git
 Aula de  fundamentos Informática e Design Digital
